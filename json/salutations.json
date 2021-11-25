@@ -1,0 +1,619 @@
+{
+"salutations": [
+	{
+		"id" : 1,
+		"description" : "Ar."
+	},
+	{
+		"id" : 2,
+		"description" : "Ar. Dr."
+	},
+	{
+		"id" : 3,
+		"description" : "ChM."
+	},
+	{
+		"id" : 4,
+		"description" : "ChM. Dr."
+	},
+	{
+		"id" : 5,
+		"description" : "Cik"
+	},
+	{
+		"id" : 6,
+		"description" : "Datin"
+	},
+	{
+		"id" : 7,
+		"description" : "Datin Amar"
+	},
+	{
+		"id" : 8,
+		"description" : "Datin Diraja"
+	},
+	{
+		"id" : 9,
+		"description" : "Datin Dr."
+	},
+	{
+		"id" : 10,
+		"description" : "Datin Indera"
+	},
+	{
+		"id" : 11,
+		"description" : "Datin Ir."
+	},
+	{
+		"id" : 12,
+		"description" : "Datin Paduka"
+	},
+	{
+		"id" : 13,
+		"description" : "Datin Paduka Profesor Madya"
+	},
+	{
+		"id" : 14,
+		"description" : "Datin Paduka Seri"
+	},
+	{
+		"id" : 15,
+		"description" : "Datin Paduka Setia"
+	},
+	{
+		"id" : 16,
+		"description" : "Datin Patinggi"
+	},
+	{
+		"id" : 17,
+		"description" : "Datin Profesor"
+	},
+	{
+		"id" : 18,
+		"description" : "Datin Profesor Dr."
+	},
+	{
+		"id" : 19,
+		"description" : "Datin Profesor Ir. Dr. Hajah"
+	},
+	{
+		"id" : 20,
+		"description" : "Datin Profesor Madya"
+	},
+	{
+		"id" : 21,
+		"description" : "Datin Profesor Madya Dr."
+	},
+	{
+		"id" : 22,
+		"description" : "Datin Profesor Madya Hajah"
+	},
+	{
+		"id" : 23,
+		"description" : "Datin Profesor Sr. Dr."
+	},
+	{
+		"id" : 24,
+		"description" : "Datin Seri"
+	},
+	{
+		"id" : 25,
+		"description" : "Datin Seri Diraja"
+	},
+	{
+		"id" : 26,
+		"description" : "Datin Seri Panglima"
+	},
+	{
+		"id" : 27,
+		"description" : "Datin Seri Setia DiRaja"
+	},
+	{
+		"id" : 28,
+		"description" : "Datin Seri Utama"
+	},
+	{
+		"id" : 29,
+		"description" : "Datin Seri Wira"
+	},
+	{
+		"id" : 30,
+		"description" : "Datin Setia"
+	},
+	{
+		"id" : 31,
+		"description" : "Datin Sr. Dr."
+	},
+	{
+		"id" : 32,
+		"description" : "Datin Sri"
+	},
+	{
+		"id" : 33,
+		"description" : "Datin Sri Cempaka"
+	},
+	{
+		"id" : 34,
+		"description" : "Datin Sri Diraja"
+	},
+	{
+		"id" : 35,
+		"description" : "Datin Sri Dr."
+	},
+	{
+		"id" : 36,
+		"description" : "Datin Wira"
+	},
+	{
+		"id" : 37,
+		"description" : "Datu"
+	},
+	{
+		"id" : 38,
+		"description" : "Datu Dr."
+	},
+	{
+		"id" : 39,
+		"description" : "Datuk"
+	},
+	{
+		"id" : 40,
+		"description" : "Datuk Amar"
+	},
+	{
+		"id" : 41,
+		"description" : "Datuk Bentara Luar"
+	},
+	{
+		"id" : 42,
+		"description" : "Datuk Bentara Raja"
+	},
+	{
+		"id" : 43,
+		"description" : "Datuk Dr."
+	},
+	{
+		"id" : 44,
+		"description" : "Datuk Hajah"
+	},
+	{
+		"id" : 45,
+		"description" : "Datuk Ir."
+	},
+	{
+		"id" : 46,
+		"description" : "Datuk Ir. Dr."
+	},
+	{
+		"id" : 47,
+		"description" : "Datuk Ir. Ts. Dr."
+	},
+	{
+		"id" : 48,
+		"description" : "Datuk Kol."
+	},
+	{
+		"id" : 49,
+		"description" : "Datuk Patinggi"
+	},
+	{
+		"id" : 50,
+		"description" : "Datuk Profesor"
+	},
+	{
+		"id" : 51,
+		"description" : "Datuk Profesor Dr."
+	},
+	{
+		"id" : 52,
+		"description" : "Datuk Profesor Emeritus"
+	},
+	{
+		"id" : 53,
+		"description" : "Datuk Profesor Emeritus Dr."
+	},
+	{
+		"id" : 54,
+		"description" : "Datuk Profesor Madya"
+	},
+	{
+		"id" : 55,
+		"description" : "Datuk Profesor Madya Dr."
+	},
+	{
+		"id" : 56,
+		"description" : "Datuk Seri"
+	},
+	{
+		"id" : 57,
+		"description" : "Datuk Seri Dr."
+	},
+	{
+		"id" : 58,
+		"description" : "Datuk Seri Ir. Dr."
+	},
+	{
+		"id" : 59,
+		"description" : "Datuk Seri Panglima"
+	},
+	{
+		"id" : 60,
+		"description" : "Datuk Seri Utama"
+	},
+	{
+		"id" : 61,
+		"description" : "Datuk Setia"
+	},
+	{
+		"id" : 62,
+		"description" : "Datuk Setia Wangsa"
+	},
+	{
+		"id" : 63,
+		"description" : "Datuk Sri"
+	},
+	{
+		"id" : 64,
+		"description" : "Datuk Sri Amar DiRaja"
+	},
+	{
+		"id" : 65,
+		"description" : "Datuk Sri Dr."
+	},
+	{
+		"id" : 66,
+		"description" : "Datuk Wira"
+	},
+	{
+		"id" : 67,
+		"description" : "Datuk Wira Dr."
+	},
+	{
+		"id" : 68,
+		"description" : "Datuk Wira Hajah"
+	},
+	{
+		"id" : 69,
+		"description" : "Datuk Wira Jaya"
+	},
+	{
+		"id" : 70,
+		"description" : "Dr."
+	},
+	{
+		"id" : 71,
+		"description" : "Dr. Hajah"
+	},
+	{
+		"id" : 72,
+		"description" : "Dr.-Ing."
+	},
+	{
+		"id" : 73,
+		"description" : "Hajah"
+	},
+	{
+		"id" : 74,
+		"description" : "Ir."
+	},
+	{
+		"id" : 75,
+		"description" : "Ir. Dr."
+	},
+	{
+		"id" : 76,
+		"description" : "Ir. Ts."
+	},
+	{
+		"id" : 77,
+		"description" : "Ir. Ts. Dr."
+	},
+	{
+		"id" : 78,
+		"description" : "Jeneral"
+	},
+	{
+		"id" : 79,
+		"description" : "Kapten"
+	},
+	{
+		"id" : 80,
+		"description" : "Kepten"
+	},
+	{
+		"id" : 81,
+		"description" : "Kolonel"
+	},
+	{
+		"id" : 82,
+		"description" : "Kolonel (B) Dr."
+	},
+	{
+		"id" : 83,
+		"description" : "LAr."
+	},
+	{
+		"id" : 84,
+		"description" : "LAr. Dr."
+	},
+	{
+		"id" : 85,
+		"description" : "Lt. Kolonel"
+	},
+	{
+		"id" : 86,
+		"description" : "Major"
+	},
+	{
+		"id" : 87,
+		"description" : "Mejar Profesor Madya Dr."
+	},
+	{
+		"id" : 88,
+		"description" : "Pehin Sri"
+	},
+	{
+		"id" : 89,
+		"description" : "Prof. Datin Paduka Dr."
+	},
+	{
+		"id" : 90,
+		"description" : "Profesor"
+	},
+	{
+		"id" : 91,
+		"description" : "Profesor Datin Dr."
+	},
+	{
+		"id" : 92,
+		"description" : "Profesor Datuk Dr."
+	},
+	{
+		"id" : 93,
+		"description" : "Profesor DiRaja"
+	},
+	{
+		"id" : 94,
+		"description" : "Profesor Dr."
+	},
+	{
+		"id" : 95,
+		"description" : "Profesor Dr. Hajah"
+	},
+	{
+		"id" : 96,
+		"description" : "Profesor Emerita Dr."
+	},
+	{
+		"id" : 97,
+		"description" : "Profesor Emeritus Dr."
+	},
+	{
+		"id" : 98,
+		"description" : "Profesor Emeritus Ir. Dr."
+	},
+	{
+		"id" : 99,
+		"description" : "Profesor Hajah"
+	},
+	{
+		"id" : 100,
+		"description" : "Profesor Ir."
+	},
+	{
+		"id" : 101,
+		"description" : "Profesor Ir. Dr."
+	},
+	{
+		"id" : 102,
+		"description" : "Profesor Ir. Dr. Hajah"
+	},
+	{
+		"id" : 103,
+		"description" : "Profesor Madya"
+	},
+	{
+		"id" : 104,
+		"description" : "Profesor Madya Ar."
+	},
+	{
+		"id" : 105,
+		"description" : "Profesor Madya Dr."
+	},
+	{
+		"id" : 106,
+		"description" : "Profesor Madya Dr."
+	},
+	{
+		"id" : 107,
+		"description" : "Profesor Madya Dr. Hajah"
+	},
+	{
+		"id" : 108,
+		"description" : "Profesor Madya Gs. Dr."
+	},
+	{
+		"id" : 109,
+		"description" : "Profesor Madya Hajah"
+	},
+	{
+		"id" : 110,
+		"description" : "Profesor Madya Ir."
+	},
+	{
+		"id" : 111,
+		"description" : "Profesor Madya Ir. Dr."
+	},
+	{
+		"id" : 112,
+		"description" : "Profesor Madya Ir.Ts.Dr."
+	},
+	{
+		"id" : 113,
+		"description" : "Profesor Madya Sr."
+	},
+	{
+		"id" : 114,
+		"description" : "Profesor Madya Sr. Dr."
+	},
+	{
+		"id" : 115,
+		"description" : "Profesor Madya Sr. Hajah"
+	},
+	{
+		"id" : 116,
+		"description" : "Profesor Madya Ts. Dr."
+	},
+	{
+		"id" : 117,
+		"description" : "Profesor Sr. Dr."
+	},
+	{
+		"id" : 118,
+		"description" : "Profesor Sr. Ir. Dr."
+	},
+	{
+		"id" : 119,
+		"description" : "Profesor Ts. Dr."
+	},
+	{
+		"id" : 120,
+		"description" : "Puan"
+	},
+	{
+		"id" : 121,
+		"description" : "Puan Sri"
+	},
+	{
+		"id" : 122,
+		"description" : "Puan Sri Datin"
+	},
+	{
+		"id" : 123,
+		"description" : "Puan Sri Datin Profesor"
+	},
+	{
+		"id" : 124,
+		"description" : "Puan Sri Datin Seri Panglima"
+	},
+	{
+		"id" : 125,
+		"description" : "Puan Sri Datin Sri Profesor Dr."
+	},
+	{
+		"id" : 126,
+		"description" : "Puan Sri Datuk"
+	},
+	{
+		"id" : 127,
+		"description" : "Puan Sri Dr."
+	},
+	{
+		"id" : 128,
+		"description" : "Puan Sri Profesor Madya"
+	},
+	{
+		"id" : 129,
+		"description" : "Puan Sri Utama"
+	},
+	{
+		"id" : 130,
+		"description" : "Sr."
+	},
+	{
+		"id" : 131,
+		"description" : "Sr. Dr."
+	},
+	{
+		"id" : 132,
+		"description" : "Sr. Dr. Hajah"
+	},
+	{
+		"id" : 133,
+		"description" : "Sr. Ts."
+	},
+	{
+		"id" : 134,
+		"description" : "Tan Sri"
+	},
+	{
+		"id" : 135,
+		"description" : "Tan Sri Datuk"
+	},
+	{
+		"id" : 136,
+		"description" : "Tan Sri Datuk Dr."
+	},
+	{
+		"id" : 137,
+		"description" : "Tan Sri Datuk Profesor"
+	},
+	{
+		"id" : 138,
+		"description" : "Tan Sri Datuk Profesor Dr."
+	},
+	{
+		"id" : 139,
+		"description" : "Tan Sri Datuk Seri"
+	},
+	{
+		"id" : 140,
+		"description" : "Tan Sri Dr."
+	},
+	{
+		"id" : 141,
+		"description" : "Tan Sri Jeneral"
+	},
+	{
+		"id" : 142,
+		"description" : "Tan Sri Profesor"
+	},
+	{
+		"id" : 143,
+		"description" : "Tc."
+	},
+	{
+		"id" : 144,
+		"description" : "Toh Puan"
+	},
+	{
+		"id" : 145,
+		"description" : "Toh Puan Seri Utama"
+	},
+	{
+		"id" : 146,
+		"description" : "Tok Puan"
+	},
+	{
+		"id" : 147,
+		"description" : "TPr."
+	},
+	{
+		"id" : 148,
+		"description" : "Ts."
+	},
+	{
+		"id" : 149,
+		"description" : "Ts. Dr."
+	},
+	{
+		"id" : 150,
+		"description" : "Tun"
+	},
+	{
+		"id" : 151,
+		"description" : "Tun Dr."
+	},
+	{
+		"id" : 152,
+		"description" : "Yang Mulia"
+	},
+	{
+		"id" : 153,
+		"description" : "YB"
+	},
+	{
+		"id" : 154,
+		"description" : "YB Senator"
+	}
+]}
