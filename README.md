@@ -6,7 +6,7 @@ This repository contains two format types.
 1. Csv  
 Csv file can be found in the csv folder. First line is the header for csv containing  
 * id - running number
-* description - salutation
+* description - salutation  
 This csv file is using comma (,) separator.
 
 2. Json  
